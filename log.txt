@@ -1,0 +1,12 @@
+6/30/25
+- Went to Staples to look for a controller but they were 60 dollars, so I may order from amazon. 
+- Made this git repo and am going to start with https://www.bitcraze.io/documentation/repository/crazyflie-lib-python/master/user-guides/sbs_connect_log_param/ 
+
+6/29/25
+- I opened up the charging pad and confirmed it charges (the pogo pins on the drone touch the two concentric rings and the guides prevent it from going in the wrong place)
+- I also got the drivers for the crazyradio2.0 here: https://www.bitcraze.io/documentation/tutorials/getting-started-with-crazyradio-2-0/. Properly shows up in device manager
+- I installed cfclient https://www.bitcraze.io/documentation/repository/crazyflie-clients-python/master/installation/install/ using pip3 install cfclient
+- I ran cfclient just saying "cfclient" in cmd and sensors all work and communication with crazyradio2.0 works well. I don't have a controller so I couldn't fly the drone. 
+
+6/28/25
+- I assembled the drone based on these instructions https://www.bitcraze.io/documentation/tutorials/getting-started-with-crazyflie-brushless/
