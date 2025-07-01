@@ -1,6 +1,7 @@
 6/30/25
 - Went to Staples to look for a controller but they were 60 dollars, so I may order from amazon. 
-- Made this git repo and am going to start with https://www.bitcraze.io/documentation/repository/crazyflie-lib-python/master/user-guides/sbs_connect_log_param/ 
+- Made this git repo and am going to start with https://www.bitcraze.io/documentation/repository/crazyflie-lib-python/master/user-guides/sbs_connect_log_param/
+- Finished until 2a 
 
 6/29/25
 - I opened up the charging pad and confirmed it charges (the pogo pins on the drone touch the two concentric rings and the guides prevent it from going in the wrong place)
