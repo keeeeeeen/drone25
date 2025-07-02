@@ -1,3 +1,7 @@
+7/1/25
+- Attached the lighthouse deck and updated the firmware for it. Broke it in the process because I did cf2 and not cf21bl https://www.bitcraze.io/documentation/repository/crazyflie-clients-python/master/userguides/userguide_client/#firmware-upgrade
+- it flew!
+
 6/30/25
 - Went to Staples to look for a controller but they were 60 dollars, so I may order from amazon. 
 - Made this git repo and am going to start with https://www.bitcraze.io/documentation/repository/crazyflie-lib-python/master/user-guides/sbs_connect_log_param/

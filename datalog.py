@@ -22,7 +22,7 @@ def simple_log(scf, logconf):
             timestamp = log_entry[0]
             data = log_entry[1]
             logconf_name = log_entry[2]
-
+            print(log_entry)
             print('[%d][%s]: %s' % (timestamp, logconf_name, data))
 
 
